@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">playdog</string>
+    <string name="playdog">playdog</string>
+    <string name="gowalk">עם\'שךל</string>
+    <string name="places">places</string>
+    <string name="friends">friends</string>
+    <string name="selfie">selfie</string>
+    <string name="todo">todo</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="sign_up_with_facebook">Sign up with Facebook</string>
+</resources>
